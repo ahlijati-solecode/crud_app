@@ -110,7 +110,7 @@ class _ListMahasiswaPageState extends State<ListMahasiswaPage> {
               }
             },
             style: ElevatedButton.styleFrom(backgroundColor: Colors.red),
-            child: Text('Hapus'),
+            child: const Text('Hapus'),
           ),
         ],
       ),
